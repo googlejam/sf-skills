@@ -1,3 +1,134 @@
+# [1.51.0](https://github.com/forcedotcom/sf-skills/compare/1.50.0...1.51.0) (2026-09-05)
+
+
+### Features
+
+* @W-24104658 Integrate PR [#1708](https://github.com/forcedotcom/sf-skills/issues/1708) to main ([8fbbdc4](https://github.com/forcedotcom/sf-skills/commit/8fbbdc428b9c0b1347c23eb8c9ece248b5d54e16))
+
+
+
+# [1.50.0](https://github.com/forcedotcom/sf-skills/compare/1.49.0...1.50.0) (2026-09-04)
+
+
+### Features
+
+* Release 13 new field service skills @W-24084305@ ([81dc017](https://github.com/forcedotcom/sf-skills/commit/81dc017762810a493fe6170b04d263114c34597f))
+
+
+
+# [1.49.0](https://github.com/forcedotcom/sf-skills/compare/1.48.0...1.49.0) (2026-09-04)
+
+
+### Features
+
+* Release 1 skill updated - education-cloud-multi-campus-configure @W-24038743@ ([17085e2](https://github.com/forcedotcom/sf-skills/commit/17085e28d55fa8d034703657d337a65ec40eca35))
+
+
+
+# [1.48.0](https://github.com/forcedotcom/sf-skills/compare/1.47.0...1.48.0) (2026-09-04)
+
+
+### Features
+
+* Release 22 new + 4 updated skills - Omni-Channel skill set + education-cloud-domain-configure @W-24038743@ ([032746b](https://github.com/forcedotcom/sf-skills/commit/032746b5bd31c16241ca63b047f868a03ff79a02))
+
+
+
+# [1.47.0](https://github.com/forcedotcom/sf-skills/compare/1.46.0...1.47.0) (2026-09-04)
+
+
+### Features
+
+* Release 13 skills new + 14 updated skills @W-24086520@ ([8efc01e](https://github.com/forcedotcom/sf-skills/commit/8efc01e652b58bd32aaeb0082985e505f15cad66))
+
+
+
+# [1.46.0](https://github.com/forcedotcom/sf-skills/compare/1.45.0...1.46.0) (2026-09-03)
+
+
+### Features
+
+* Release salesforce-development 2.1.0; allowlist salesforce-test-drive for public release @W-24080114@ ([dc9f278](https://github.com/forcedotcom/sf-skills/commit/dc9f27889890a11652fc36223bd1eba20154eaac))
+
+
+
+# [1.45.0](https://github.com/forcedotcom/sf-skills/compare/1.44.0...1.45.0) (2026-09-02)
+
+
+### Features
+
+* Release 6 new + 14 updated skills @W-24067533@ ([0274876](https://github.com/forcedotcom/sf-skills/commit/0274876cfbe7c7a77aceabf4357f2e9074ac30a8))
+
+
+
+# [1.44.0](https://github.com/forcedotcom/sf-skills/compare/1.43.0...1.44.0) (2026-09-01)
+
+
+### Features
+
+* @W-23921501@ sync validator, model vocabulary & authoring docs to main ([e266d36](https://github.com/forcedotcom/sf-skills/commit/e266d36252d69f482d0b08ab07e24c18d44e212d))
+
+
+
+# [1.43.0](https://github.com/forcedotcom/sf-skills/compare/1.42.0...1.43.0) (2026-08-28)
+
+
+### Features
+
+* @W-23921501@ declare relatedSkills in SKILL.md frontmatter (sync [#138](https://github.com/forcedotcom/sf-skills/issues/138)… ([90dbced](https://github.com/forcedotcom/sf-skills/commit/90dbcedf589103ffc3d5f26fee7f3f37f837bf6a))
+* Merge pull request [#1535](https://github.com/forcedotcom/sf-skills/issues/1535) from salesforce-internal/auto-integration/pr-1521 ([0ec9697](https://github.com/forcedotcom/sf-skills/commit/0ec96979d104df41537a094424dceca508ca5bfb))
+* Release to main: 16 new + 14 updated skills (1 removed) @W-24006609@ ([08bb9a5](https://github.com/forcedotcom/sf-skills/commit/08bb9a5599241b57301bd2d49880b9b5602413be))
+
+
+
+# [1.42.0](https://github.com/forcedotcom/sf-skills/compare/1.41.0...1.42.0) (2026-08-25)
+
+
+### Features
+
+* @W-23953441 Integrate PRs [#1394](https://github.com/forcedotcom/sf-skills/issues/1394), [#1298](https://github.com/forcedotcom/sf-skills/issues/1298) to main ([2476476](https://github.com/forcedotcom/sf-skills/commit/2476476dda1b671762c6e963b9d10c4a7056f1c4))
+* Removing 7 data360-* skills @W-23980880@ ([0851d45](https://github.com/forcedotcom/sf-skills/commit/0851d45f78fdfa511bda12446c8cbe7c83c0d352))
+
+
+
+# [1.41.0](https://github.com/forcedotcom/sf-skills/compare/1.40.0...1.41.0) (2026-08-21)
+
+
+### Features
+
+* Release 26 new + 11 updated skills @W-23945325@ ([a9b698b](https://github.com/forcedotcom/sf-skills/commit/a9b698b8f5e1137a63989872b354241807a3e96e))
+
+
+
+# [1.40.0](https://github.com/forcedotcom/sf-skills/compare/1.39.0...1.40.0) (2026-08-18)
+
+
+### Features
+
+* Introduce metadata.domains frontmatter field for categorization @W-23894302@ ([1db8f4e](https://github.com/forcedotcom/sf-skills/commit/1db8f4eff426ccadfb67a2a751c07a683901ab39))
+* Sync scripts, packages, and repo config from develop @W-23705745@ ([68bef1d](https://github.com/forcedotcom/sf-skills/commit/68bef1db4c21b1efecf9f6206b9e8b26ac57cdca))
+
+
+
+# [1.39.0](https://github.com/forcedotcom/sf-skills/compare/1.38.0...1.39.0) (2026-08-17)
+
+
+### Features
+
+* @W-23864690 Integrate PRs [#1270](https://github.com/forcedotcom/sf-skills/issues/1270), [#1162](https://github.com/forcedotcom/sf-skills/issues/1162), [#1238](https://github.com/forcedotcom/sf-skills/issues/1238), [#1210](https://github.com/forcedotcom/sf-skills/issues/1210) to main ([697c208](https://github.com/forcedotcom/sf-skills/commit/697c208e169e6c542f3d542377939744b651ed87))
+* Release 25 skills updated @W-23888546@ ([b12ff20](https://github.com/forcedotcom/sf-skills/commit/b12ff2011d0a9e443998ae7f813165f459141b58))
+
+
+
+# [1.38.0](https://github.com/forcedotcom/sf-skills/compare/1.37.0...1.38.0) (2026-08-14)
+
+
+### Features
+
+* Release 17 new + 21 updated skills (2026-08-14) @W-23857172@ ([b64ed9a](https://github.com/forcedotcom/sf-skills/commit/b64ed9a2b4325d137ac664277eb503084de734b3))
+
+
+
 # [1.37.0](https://github.com/forcedotcom/sf-skills/compare/1.36.0...1.37.0) (2026-08-13)
 
 
